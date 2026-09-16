@@ -135,6 +135,6 @@ Le firmware écoute sur le port série à **9600 bauds** :
 ## Auteur & Licence
 
 - **Projet réalisé par :** Mohamed AMRI  
-- **Licence :** MIT (ou selon convention choisie)
+
 
 &nbsp;
